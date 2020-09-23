@@ -3,7 +3,7 @@
     <fullName>NewField2__c</fullName>
     <externalId>false</externalId>
     <label>NewField2</label>
-    <precision>18</precision>
+    <precision>19</precision>
     <required>false</required>
     <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
